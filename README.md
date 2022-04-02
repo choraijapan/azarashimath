@@ -2,3 +2,5 @@
 math game for kids
 
 # Cocos2d-js
+
+# APK Download URL : https://apkfun.com/ja/小学受験アザラシ-小学受験アザラシ.html
