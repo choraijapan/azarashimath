@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"seal_jump","_duration":2.0166666666666666,"wrapMode":"0","curveData":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2","x":1,"y":1}}],"y":[{"frame":0,"value":0},{"frame":1.0666666666666667,"value":-500},{"frame":2.0166666666666666,"value":0}]}}}

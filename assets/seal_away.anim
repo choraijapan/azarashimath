@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "seal_away",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "0",
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            47.21860344828319
+          ]
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": [
+            -484,
+            47
+          ]
+        },
+        {
+          "frame": 2.466666666666667,
+          "value": [
+            -401,
+            47
+          ]
+        },
+        {
+          "frame": 3.0166666666666666,
+          "value": [
+            -1034,
+            47
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

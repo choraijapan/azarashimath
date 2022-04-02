@@ -1,0 +1,22 @@
+{
+  "actualPlatform": "android",
+  "apiLevel": "android-28",
+  "appABIs": [
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "buildPath": "./build",
+  "debug": false,
+  "embedWebDebugger": false,
+  "keystoreAlias": "azarashi",
+  "keystoreAliasPassword": "bailu521",
+  "keystorePassword": "bailu521",
+  "keystorePath": "/Users/chorai/Working/01_Projects/questgame/azarashi.keystore",
+  "platform": "android",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": false,
+  "template": "link",
+  "useDebugKeystore": false,
+  "vsVersion": "auto"
+}

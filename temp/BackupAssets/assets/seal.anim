@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "seal",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6.566666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "22",
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0.08333333333333333,
+          "value": -577
+        },
+        {
+          "frame": 3.05,
+          "value": -420
+        },
+        {
+          "frame": 6.566666666666666,
+          "value": -607
+        }
+      ],
+      "position": []
+    }
+  },
+  "events": [
+    {
+      "frame": 0.9166666666666666,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.9166666666666666,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.9166666666666666,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 2.5833333333333335,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 2.5833333333333335,
+      "func": "",
+      "params": []
+    }
+  ]
+}
